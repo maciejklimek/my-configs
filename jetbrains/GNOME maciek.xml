@@ -1,0 +1,6 @@
+<keymap version="1" name="GNOME maciek" parent="Default for GNOME">
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+</keymap>
